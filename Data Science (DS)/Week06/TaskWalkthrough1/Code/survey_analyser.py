@@ -15,12 +15,12 @@ class Participant:
 # Helper Functions for I/O
 # Read data
 def read_data(filename):
-    participants = []
+    participants = {}
     try:
         with open(filename, "r") as file:
             for line in file:
                 name, age, email = line.strip().split(',')
-                participants.append(Participant(name, int(age), email))
+                participants[name] = Participant(name, int(age), email)
     except FileNotFoundError:
         print("File not found. Starting with an empty list.")
     return participants 
@@ -28,7 +28,8 @@ def read_data(filename):
 # Write data
 def save_data(filename, participants):
     with open(filename, 'w') as file:
-        for participant in participants:
+        for name in participants:
+            participant = participants[name]
             file.write(f"{participant.name},{participant.age},{participant.email}\n")
 
 
@@ -49,19 +50,17 @@ def main():
             name = input("Enter name: ")
             age = int(input("Enter age: "))
             email = input("Enter email: ")
-            participant = Participant(name, age, email)
+            participants[name] = Participant(name, age, email)
         
         elif choice == "2":
             name = input("Enter the name of the participant to update: ")
-            found = False
-            for participant in participants:
-                if participant.name == name:
+            if name in participants:
                     question = input("Enter survey question: ")
                     answer = input("Enter response: ")
-                    participant.update_responses(question, answer)
+                    participants[name].update_response(question, answer)
                     print("Response updated.")
                     found = True
-            if not found:
+            else:
                 print("Participant not found.")
         
         elif choice == "3":
