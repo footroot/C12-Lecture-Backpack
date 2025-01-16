@@ -1,0 +1,22 @@
+nav {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+nav button {
+  padding: 10px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+nav button:hover {
+  background-color: #0056b3;
+}
+
+nav button[style*="bold"] {
+  background-color: #0056b3;
+}
