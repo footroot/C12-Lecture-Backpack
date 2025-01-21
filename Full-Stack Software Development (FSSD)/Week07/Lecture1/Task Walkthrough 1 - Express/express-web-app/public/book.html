@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>Catalogue</title>
+</head>
+<body>
+
+    <div class="container mx-auto">
+        <h1 class="text-4xl font-bold">Catalogue</h1>
+        <div class="flex flex-col gap-4">
+            <div class="flex flex-row gap-4">
+                <input type="text" placeholder="Search Books" class="w-full p-2 border-2 border-gray-400">
+                <button class="bg-blue-500 text-white p-2 rounded-md">Search</button>
+            </div>
+            <div class="flex flex-row gap-4">
+                <button class="bg-blue-500 text-white p-2 rounded-md">Add Book</button>
+                <button class="bg-blue-500 text-white p-2 rounded-md">View All</button>
+            </div>
+        </div>
+
+        <ul class="flex flex-col gap-4" id="book-list">
+            
+        </ul>
+    </div>
+
+
+    <script src="./scripts/bookScripts.js">
+        
+    </script>
+    
+</body>
+</html>
