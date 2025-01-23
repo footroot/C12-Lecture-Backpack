@@ -1,0 +1,6 @@
+2025-01-23 22:55:24 - [INFO] - Added new task 'Wash Dishes'
+2025-01-23 22:55:28 - [INFO] - Added new task 'Feed the cat'
+2025-01-23 22:55:38 - [INFO] - Added new task 'Do the laundry'
+2025-01-23 22:55:45 - [INFO] - Task 'Wash Dishes' marked as complete.
+2025-01-23 22:55:49 - [INFO] - Task 'Do the laundry' marked as complete.
+2025-01-23 22:55:53 - [INFO] - Task 'Feed the cat' removed.
