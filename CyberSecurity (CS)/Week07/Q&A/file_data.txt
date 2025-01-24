@@ -1,0 +1,14 @@
+Listing files in directory: /home/kali/Documents/Bash/
+--------------------------------------
+cache.txt - 6936 bytes
+cleaner.sh - 338 bytes
+count_unique.sh - 214 bytes
+file_list.txt - 303 bytes
+list_files.sh - 372 bytes
+log_time.sh - 61 bytes
+names.txt - 28 bytes
+numbers.txt - 12 bytes
+read_only.sh - 109 bytes
+text.txt - 32 bytes
+time_log.txt - 9174 bytes
+web_process.txt - 170 bytes
