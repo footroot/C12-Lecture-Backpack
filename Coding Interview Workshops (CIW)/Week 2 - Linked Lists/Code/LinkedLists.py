@@ -174,3 +174,17 @@ def find_middle(head):
         slow = slow.next
         fast = fast.next.next
     return slow
+
+if __name__ == "__main__":
+    students_sll = SinglyLinkedList()
+
+    students_sll.insert_at_beginning("Zahra")
+    students_sll.insert_at_beginning("Stephen")
+    students_sll.insert_at_beginning("Juliet")
+    students_sll.insert_at_beginning("Vladimir")
+    students_sll.insert_at_end("Rod")
+    students_sll.insert_at_end("Sheel")
+    students_sll.insert_at_end("Jimmy")
+
+    students_sll.traverse()
+    print(students_sll.search("Juliet").data)
