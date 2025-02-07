@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All Events</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="navbar">
+        <a href="/">Home</a>
+        <a href="/create">Create Event</a>
+        <a href="/events">View Events</a>
+    </div>
+    
+    <div class="container">
+        <h1>All Events</h1>
+        
+        <div class="event-list">
+            {% for event_id, event in events.items() %}
+                <div class="event-item">
+                    <h3>{{ event['name'] }}</h3>
+                    <p><strong>Date:</strong> {{ event['date'] }}</p>
+                    <p>{{ event['description'] }}</p>
+                    
+                    <a href="/rsvp/{{ event_id }}">
+                        <button>RSVP</button>
+                    </a>
+
+                    <!-- RSVP List for this event -->
+                    <h4>Guest List:</h4>
+                    <ul class="rsvp-list">
+                        {% if event_id in rsvps and rsvps[event_id] %}
+                            {% for rsvp in rsvps[event_id] %}
+                                <li>{{ rsvp['user'] }} - {{ rsvp['response'] }}</li>
+                            {% endfor %}
+                        {% else %}
+                            <li>No RSVPs yet</li>
+                        {% endif %}
+                    </ul>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</body>
+</html>
