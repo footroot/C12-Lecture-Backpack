@@ -41,9 +41,15 @@ const stack = new Stack(10);
 stack.pop();
 
 // Add some elements to the stack
+console.log(stack.stack)
 stack.push(2);
+console.log(stack.stack)
 stack.push(13);
+console.log(stack.stack)
 
 // Remove an element from the stack
-stack.pop();
+console.log(stack.pop());
+console.log(stack.stack)
 
+stack.push(21)
+console.log(stack.stack)

@@ -24,7 +24,7 @@ class PriorityQueue {
             console.log("Error: Queue Underflow!");
             return null;
         } else {
-            return this.pqueue.pop();
+            return this.pqueue.pop()[1];
         }
     }
 }
@@ -34,12 +34,18 @@ let pqueue = new PriorityQueue();
 
 // Check underflow error
 pqueue.dequeue();
+console.log(pqueue.pqueue)
 
 // Add some elements to the priority queue
 pqueue.enqueue(1, 90);
+console.log(pqueue.pqueue)
 pqueue.enqueue(2, 100);
+console.log(pqueue.pqueue)
 pqueue.enqueue(945, 95);
+console.log(pqueue.pqueue)
 
 // Remove an element from the priority queue
 let popped = pqueue.dequeue();
 console.log(`Dequeued element: ${popped}`);
+
+console.log(pqueue.pqueue)

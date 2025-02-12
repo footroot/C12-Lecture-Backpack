@@ -27,13 +27,18 @@ let queue = new Queue();
 
 // Check underflow error
 queue.dequeue();
+console.log(queue.queue)
 
 // Add some elements to the queue
 queue.enqueue(1);
+console.log(queue.queue)
 queue.enqueue(2);
+console.log(queue.queue)
 queue.enqueue(945);
+console.log(queue.queue)
 
 // Remove an element from the queue
 let popped = queue.dequeue();
 console.log(`Dequeued element: ${popped}`);
 
+console.log(queue.queue)

@@ -11,7 +11,7 @@ class Queue:
     def enqueue(self, value):
         self.queue.append(value)
 
-    # Remove an element from the front of the queue
+    # Remove an element from the front olf the queue
     def dequeue(self):
         if len(self.queue) == 0:
             print("Error: Queue Underflow!")
@@ -24,12 +24,17 @@ queue = Queue()
 
 # Check underflow error
 queue.dequeue()
+print(queue.queue)
 
 # Add some elements to the queue
 queue.enqueue(1)
+print(queue.queue)
 queue.enqueue(2)
+print(queue.queue)
 queue.enqueue(945)
+print(queue.queue)
 
 # Remove an element from the queue
 popped = queue.dequeue()
 print("Dequeued element: {}".format(popped))
+print(queue.queue)
