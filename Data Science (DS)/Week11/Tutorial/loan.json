@@ -1,0 +1,31 @@
+{
+    "dataset": {
+        "name": "UCI Credit Approval Dataset",
+        "source": "https://archive.ics.uci.edu/ml/machine-learning-databases/credit-screening/crx.data",
+        "known_biases": ["Gender imbalance in approvals"]
+    },
+    "protected_attributes": ["A1 (Gender)"],
+    "fairness_metrics": {
+        "metric_1": {
+            "name": "Demographic Parity",
+            "value": "0.12 (before mitigation), 0.05 (after mitigation)"
+        },
+        "metric_2": {
+            "name": "Equal Opportunity",
+            "value": "0.08 (before), 0.03 (after)"
+        }
+    },
+    "bias_mitigation": {
+        "techniques": ["Reweighting", "Exponentiated Gradient Reduction"],
+        "impact": "Reduced approval rate disparities by 50%"
+    },
+    "explainability": {
+        "methods": ["SHAP", "LIME"],
+        "insights": "Feature importance analysis showed that 'A3 (Debt Ratio)' had a disproportionate impact on loan approvals."
+    },
+    "decision_transparency": {
+        "model_type": "Logistic Regression with fairness constraints",
+        "interpretability": "Decisions are made based on weighted features, with constraints to maintain fairness."
+    }
+}
+
