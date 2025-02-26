@@ -15,6 +15,10 @@ def insert(root, val):
         root.right = insert(root.right, val)
     return root
 
+
+
+
+
 class MinHeap:
     def __init__(self):
         self.heap = []
