@@ -1,0 +1,41 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<section>
+    <h2 class="text-xl font-bold mb-4">{{ page_title }}</h2>
+
+    <table class="w-full border-collapse border border-gray-300 mt-6">
+            <tbody>
+            {% for workout in workouts %}
+            <tr class="hover:bg-gray-100">
+                <td class="border border-gray-300 px-4 py-3">
+                    {{ workout.name }}
+                </td>
+                <td class="border border-gray-300 px-4 py-3">
+                    <a href="{% url 'get_workout' pk=workout.pk %}" 
+                       class="px-3 py-1 bg-red-600 rounded hover:bg-red-800">
+                         View
+                    </a>
+                <td class="border border-gray-300 px-4 py-3">
+                    <a href="{% url 'update_workout' pk=workout.pk %}" 
+                       class="px-3 py-1 bg-red-600 rounded hover:bg-red-800">
+                         Edit
+                    </a>
+                </td>
+                <td class="border border-gray-300 px-4 py-3">
+                    <a href="{% url 'delete_workout' pk=workout.pk %}" 
+                       class="px-3 py-1 bg-red-600 rounded hover:bg-red-800">
+                         Delete
+                    </a>
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <br>
+    <a href="{% url 'create_workout' %}" 
+       class="mt-6 inline-block bg-green-500 px-4 py-2 rounded hover:bg-green-700">
+        Add New
+    </a>
+</section>
+{% endblock %}
