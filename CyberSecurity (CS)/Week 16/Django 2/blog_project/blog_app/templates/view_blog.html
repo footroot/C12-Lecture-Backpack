@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block head %}
+    <title>{{ title }}</title>
+    <link rel="stylesheet" href="{% static 'create_blog.css' %}">
+{% endblock %}
+
+{% block body %}
+    <div class="container">
+        <h1>{{ title }}</h1>
+        <p>{{ body }}</p>
+        <h3><em>Writer: {{ author }}</em></h3>
+    </div>
+{% endblock %}
