@@ -1,0 +1,21 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ form_type }}</title>
+    <!-- <link rel="stylesheet" href="{% static 'create_blog.css' %}"> -->
+</head>
+<body>
+    <div class="container">
+        <form action="" method="post" autocomplete="off">
+            {% csrf_token %}
+            <h2>{{ form_type }} User</h2>
+            {{ form }}
+            <input type="submit" value="{{ form_type }}">
+        </form>
+    </div>    
+</body>
+</html>
