@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block head %}
+    <title>Create New Blog</title>
+    <link rel="stylesheet" href="{% static 'create_blog.css' %}">
+{% endblock %}
+
+{% block body %}
+    <div class="container">
+        <h1>Create a New Blog Post</h1>
+        <form action="" id="blogForm" method="post" autocomplete="off">
+            {% csrf_token %}
+            {{ form }}
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+{% endblock %}

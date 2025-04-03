@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block head %}
+    <title>Home</title>
+    <link rel="stylesheet" href="{% static 'create_blog.css' %}">
+{% endblock %}
+
+{% block body %}
+<div class="container">
+    <h1>Welcome to the Blog Hub</h1>
+    <ol>
+        {% for blog in blogs %}
+        <li>
+            <a href="{% url 'view_blog' blog.pk %}">{{ blog.title }}</a>: {{ blog.author }}
+            {% if perms.blog_app.delete_blog %}
+            <a href="{% url 'delete_blog' blog.pk %}"><input type="button" value="Delete"></a>
+            {% endif %}
+        </li>
+        {% endfor %}
+    </ol>
+    <a href="{% url 'create_blog' %}"><input type="button" value="Create Blog"></a>
+    <a href="{% url 'logout_user' %}"><input type="button" value="Logout"></a>
+</div>
+{% endblock %}
