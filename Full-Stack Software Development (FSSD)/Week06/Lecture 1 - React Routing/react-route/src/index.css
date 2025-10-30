@@ -1,0 +1,16 @@
+main {
+    width: 100vw;
+    height: 100vh;
+}
+
+.about-us {
+    background-color: aquamarine;
+}
+
+.contact {
+    background-color: brown;
+}
+
+.home {
+    background-color: blueviolet
+}

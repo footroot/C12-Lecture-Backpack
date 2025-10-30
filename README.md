@@ -103,9 +103,9 @@ This rest of the repository is structured into four main folders, each targeting
   - **Professional Development**: Focusing on networking, work-life balance, cultural competence, and advocacy skills
   - **Employee Engagement**: Mastering talent development, engagement strategies, and inclusive leadership practices
 
-- **[Cloud Web Development (CWD)](Cloud%20Web%20Development%20(CWD)/)** : This stream is designed to develop comprehensive cloud web development understanding, covering:
+- **[Full-Stack Software Development (FSSD)](Full-Stack%20Software%20Development%20(FSSD)/)** : This stream is designed to develop comprehensive Full-Stack Software Development understanding, covering:
 
-  - **Cloud Web Development Fundamentals**: Overview of cloud computing, benefits, and popular service models (IaaS, PaaS, SaaS).
+  - **Full-Stack Software Development Fundamentals**: Overview of cloud computing, benefits, and popular service models (IaaS, PaaS, SaaS).
   - **Hosting & Deployment**: Understanding cloud hosting, continuous deployment, serverless architecture, and environment configuration.
   - **Frontend Development**: Modern frontend frameworks, responsive design, and cloud-based tools for frontend development.
   - **Backend Development**: Building APIs, server management, and integration with cloud databases.

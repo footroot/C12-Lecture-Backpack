@@ -1,0 +1,1 @@
+This is my text file with all my unique word to count

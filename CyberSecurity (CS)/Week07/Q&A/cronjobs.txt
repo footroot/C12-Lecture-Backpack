@@ -1,0 +1,14 @@
+M  H  DOM MON DOW
+*  *   *   *   *
+
+10:15 AM every day
+15 10 * * *
+
+3:30 PM Mondays and Thursdays
+30 15 * * 1,4
+
+08:00 AM 1st day of every month
+0 8 1 * *
+
+Every 10min between 2:00 PM and 3:00 PM on weekdays
+*/10 14 * * 1-5

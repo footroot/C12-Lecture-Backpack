@@ -1,0 +1,1001 @@
+Customer ID,Age,Gender,Location,Income,SubscriptionStatus,PreferredPaymentMethod,ShoppingFrequency
+CUST0001,58,Female,Los Angeles,45448,Yes,Mobile Wallet,Weekly
+CUST0002,25,Male,Phoenix,61270,Yes,Credit Card,Weekly
+CUST0003,19,Female,Houston,70026,Yes,Mobile Wallet,Quarterly
+CUST0004,65,Female,Phoenix,45328,No,Debit Card,Monthly
+CUST0005,35,Female,New York,53992,No,Cash,Monthly
+CUST0006,33,Female,Houston,78929,No,PayPal,Quarterly
+CUST0007,32,Female,Phoenix,48528,No,Cash,Monthly
+CUST0008,26,Female,Chicago,96954,No,Credit Card,Quarterly
+CUST0009,65,Female,Chicago,80916,Yes,Mobile Wallet,Weekly
+CUST0010,24,Female,Houston,84819,Yes,Cash,Quarterly
+CUST0011,61,Female,Los Angeles,108174,No,Debit Card,Weekly
+CUST0012,65,Female,Houston,48070,Yes,Credit Card,Quarterly
+CUST0013,52,Female,Chicago,105340,No,Credit Card,Weekly
+CUST0014,23,Male,Houston,80293,No,PayPal,Weekly
+CUST0015,55,Male,New York,85448,No,Cash,Quarterly
+CUST0016,45,Male,New York,54347,Yes,Mobile Wallet,Quarterly
+CUST0017,20,Female,Los Angeles,93788,Yes,Credit Card,Quarterly
+CUST0018,19,Male,Houston,113296,Yes,Debit Card,Quarterly
+CUST0019,23,Male,Houston,100435,No,Debit Card,Weekly
+CUST0020,31,Male,Houston,114575,No,Mobile Wallet,Monthly
+CUST0021,32,Male,Houston,52706,Yes,Debit Card,Quarterly
+CUST0022,50,Female,Los Angeles,102733,Yes,PayPal,Quarterly
+CUST0023,56,Female,Chicago,51871,Yes,Mobile Wallet,Quarterly
+CUST0024,19,Female,Phoenix,94178,Yes,Debit Card,Quarterly
+CUST0025,53,Male,Los Angeles,67858,Yes,PayPal,Monthly
+CUST0026,30,Male,Chicago,48388,Yes,Debit Card,Monthly
+CUST0027,63,Female,Chicago,54523,Yes,Cash,Quarterly
+CUST0028,59,Male,Chicago,71232,Yes,Mobile Wallet,Monthly
+CUST0029,62,Female,Houston,89113,No,Debit Card,Monthly
+CUST0030,52,Male,Los Angeles,111187,Yes,Debit Card,Quarterly
+CUST0031,44,Female,Chicago,37026,No,PayPal,Quarterly
+CUST0032,32,Male,Phoenix,77059,Yes,Cash,Quarterly
+CUST0033,46,Male,Phoenix,31256,No,Cash,Monthly
+CUST0034,55,Female,New York,93518,No,PayPal,Weekly
+CUST0035,35,Male,Chicago,47895,No,Cash,Quarterly
+CUST0036,69,Male,Los Angeles,55575,No,Debit Card,Quarterly
+CUST0037,18,Female,Houston,80324,Yes,Debit Card,Monthly
+CUST0038,66,Male,New York,103607,Yes,Cash,Quarterly
+CUST0039,69,Female,Chicago,96248,Yes,Debit Card,Quarterly
+CUST0040,28,Male,Houston,115599,No,Cash,Quarterly
+CUST0041,62,Male,Los Angeles,94876,No,PayPal,Monthly
+CUST0042,45,Female,Los Angeles,83626,No,Mobile Wallet,Monthly
+CUST0043,39,Female,New York,119744,Yes,PayPal,Weekly
+CUST0044,35,Female,New York,94451,No,Mobile Wallet,Quarterly
+CUST0045,27,Female,Chicago,84477,No,PayPal,Weekly
+CUST0046,31,Female,Houston,88176,No,Credit Card,Quarterly
+CUST0047,66,Male,Phoenix,94054,Yes,Debit Card,Monthly
+CUST0048,39,Male,Houston,51922,No,PayPal,Weekly
+CUST0049,24,Female,Los Angeles,40835,Yes,Mobile Wallet,Weekly
+CUST0050,23,Female,Los Angeles,104107,No,Cash,Weekly
+CUST0051,42,Male,Chicago,34044,Yes,Cash,Weekly
+CUST0052,24,Male,Phoenix,58905,No,PayPal,Monthly
+CUST0053,40,Female,Chicago,68284,Yes,PayPal,Quarterly
+CUST0054,40,Female,Los Angeles,34285,Yes,PayPal,Weekly
+CUST0055,56,Male,Los Angeles,66025,Yes,Cash,Quarterly
+CUST0056,34,Male,Houston,59470,Yes,Credit Card,Weekly
+CUST0057,69,Male,Phoenix,100465,Yes,PayPal,Quarterly
+CUST0058,20,Male,Houston,67836,Yes,Cash,Monthly
+CUST0059,64,Female,Houston,52047,No,Cash,Monthly
+CUST0060,47,Male,Chicago,89942,No,PayPal,Weekly
+CUST0061,52,Male,Houston,104140,Yes,Mobile Wallet,Monthly
+CUST0062,25,Male,New York,94921,Yes,Mobile Wallet,Monthly
+CUST0063,42,Female,New York,102053,No,Debit Card,Quarterly
+CUST0064,23,Male,Houston,96952,Yes,Cash,Quarterly
+CUST0065,53,Female,Phoenix,44838,Yes,Debit Card,Weekly
+CUST0066,36,Female,Houston,105066,Yes,Debit Card,Weekly
+CUST0067,58,Female,Los Angeles,44969,Yes,Mobile Wallet,Quarterly
+CUST0068,57,Female,Los Angeles,65112,No,Mobile Wallet,Weekly
+CUST0069,41,Female,Phoenix,101186,No,Credit Card,Quarterly
+CUST0070,54,Female,Chicago,78085,No,Cash,Monthly
+CUST0071,30,Male,New York,101046,No,Credit Card,Monthly
+CUST0072,63,Male,New York,35453,No,PayPal,Weekly
+CUST0073,22,Male,Chicago,87850,No,Credit Card,Monthly
+CUST0074,20,Male,Houston,101611,No,PayPal,Monthly
+CUST0075,60,Female,Phoenix,58644,No,Debit Card,Quarterly
+CUST0076,32,Male,Houston,85725,Yes,Cash,Quarterly
+CUST0077,67,Male,Chicago,43423,No,Credit Card,Monthly
+CUST0078,36,Male,Phoenix,115678,No,Cash,Weekly
+CUST0079,23,Male,New York,62444,No,Debit Card,Weekly
+CUST0080,32,Male,New York,69021,Yes,Debit Card,Quarterly
+CUST0081,24,Male,Houston,34224,Yes,Debit Card,Monthly
+CUST0082,42,Male,Los Angeles,88947,No,Debit Card,Monthly
+CUST0083,35,Female,Chicago,64447,No,Mobile Wallet,Monthly
+CUST0084,47,Female,Chicago,75688,No,Mobile Wallet,Quarterly
+CUST0085,58,Female,Houston,41401,Yes,Debit Card,Quarterly
+CUST0086,41,Female,Chicago,87549,No,Debit Card,Quarterly
+CUST0087,28,Male,New York,45386,Yes,Credit Card,Weekly
+CUST0088,41,Male,Houston,61056,No,Cash,Weekly
+CUST0089,40,Female,New York,57509,No,Credit Card,Weekly
+CUST0090,31,Female,Phoenix,107060,No,Debit Card,Monthly
+CUST0091,60,Female,Phoenix,75957,No,Mobile Wallet,Monthly
+CUST0092,35,Male,Los Angeles,109988,No,PayPal,Quarterly
+CUST0093,62,Male,Chicago,112938,No,Mobile Wallet,Monthly
+CUST0094,61,Female,Phoenix,86120,Yes,Mobile Wallet,Monthly
+CUST0095,59,Male,Chicago,51755,Yes,Mobile Wallet,Weekly
+CUST0096,22,Female,New York,110760,Yes,PayPal,Quarterly
+CUST0097,56,Male,Houston,48249,Yes,Debit Card,Weekly
+CUST0098,58,Male,Phoenix,57082,No,Debit Card,Monthly
+CUST0099,28,Male,Houston,57124,No,Debit Card,Weekly
+CUST0100,52,Female,Phoenix,37780,Yes,Mobile Wallet,Quarterly
+CUST0101,64,Male,Chicago,104720,Yes,Cash,Monthly
+CUST0102,33,Male,Phoenix,75982,No,Cash,Quarterly
+CUST0103,28,Male,Phoenix,99767,No,Credit Card,Monthly
+CUST0104,47,Male,New York,66842,No,Cash,Monthly
+CUST0105,42,Female,Los Angeles,108231,No,Mobile Wallet,Monthly
+CUST0106,35,Female,New York,100617,No,Debit Card,Quarterly
+CUST0107,58,Female,Houston,52069,No,Cash,Weekly
+CUST0108,62,Male,Chicago,72421,Yes,PayPal,Quarterly
+CUST0109,53,Female,Chicago,68356,Yes,PayPal,Monthly
+CUST0110,32,Female,Phoenix,67923,No,Debit Card,Quarterly
+CUST0111,61,Female,Chicago,105069,Yes,Cash,Quarterly
+CUST0112,38,Female,Los Angeles,65041,No,Mobile Wallet,Quarterly
+CUST0113,67,Female,Los Angeles,97425,No,Mobile Wallet,Monthly
+CUST0114,67,Female,Phoenix,119037,No,Cash,Quarterly
+CUST0115,21,Male,Phoenix,42481,Yes,Credit Card,Quarterly
+CUST0116,32,Male,Houston,47771,Yes,Credit Card,Weekly
+CUST0117,70,Female,Phoenix,83948,No,PayPal,Weekly
+CUST0118,20,Female,New York,37770,Yes,Debit Card,Quarterly
+CUST0119,69,Female,New York,66349,No,PayPal,Quarterly
+CUST0120,38,Male,New York,115969,Yes,Debit Card,Monthly
+CUST0121,43,Male,Los Angeles,46631,No,Debit Card,Monthly
+CUST0122,35,Male,Chicago,47392,Yes,Debit Card,Weekly
+CUST0123,22,Male,Houston,62725,No,Debit Card,Weekly
+CUST0124,31,Female,Phoenix,49168,Yes,Mobile Wallet,Monthly
+CUST0125,54,Male,Houston,72217,Yes,Cash,Weekly
+CUST0126,63,Male,Los Angeles,62447,No,Debit Card,Monthly
+CUST0127,38,Female,Phoenix,118635,Yes,Cash,Monthly
+CUST0128,31,Female,Phoenix,81472,No,Debit Card,Quarterly
+CUST0129,59,Female,Los Angeles,94154,No,Mobile Wallet,Quarterly
+CUST0130,49,Male,Chicago,48634,No,Mobile Wallet,Weekly
+CUST0131,43,Female,Phoenix,105684,No,Cash,Quarterly
+CUST0132,59,Female,Chicago,112890,No,Cash,Quarterly
+CUST0133,47,Male,Los Angeles,65221,No,PayPal,Monthly
+CUST0134,27,Female,Houston,112288,No,PayPal,Weekly
+CUST0135,34,Female,Phoenix,84293,Yes,Credit Card,Quarterly
+CUST0136,26,Female,Chicago,79174,No,PayPal,Weekly
+CUST0137,33,Female,Phoenix,89243,Yes,PayPal,Monthly
+CUST0138,65,Female,Chicago,39898,Yes,Debit Card,Quarterly
+CUST0139,53,Male,Phoenix,113050,No,Credit Card,Monthly
+CUST0140,52,Male,Phoenix,42202,Yes,PayPal,Quarterly
+CUST0141,34,Female,Phoenix,82802,Yes,PayPal,Weekly
+CUST0142,65,Female,Houston,97582,No,Cash,Monthly
+CUST0143,55,Female,Phoenix,66467,No,Credit Card,Monthly
+CUST0144,45,Female,Chicago,78374,No,Credit Card,Weekly
+CUST0145,55,Female,Houston,89597,Yes,Credit Card,Monthly
+CUST0146,43,Male,New York,93968,Yes,Cash,Weekly
+CUST0147,41,Female,Chicago,72898,Yes,Mobile Wallet,Monthly
+CUST0148,32,Male,Chicago,106278,Yes,Credit Card,Monthly
+CUST0149,26,Female,New York,30324,No,Credit Card,Monthly
+CUST0150,50,Female,Houston,42208,No,Cash,Weekly
+CUST0151,49,Female,Phoenix,90089,No,Mobile Wallet,Quarterly
+CUST0152,23,Male,Chicago,113209,Yes,Credit Card,Monthly
+CUST0153,66,Female,New York,117050,No,Credit Card,Weekly
+CUST0154,21,Male,Phoenix,76952,Yes,Debit Card,Weekly
+CUST0155,25,Female,Houston,38300,Yes,Mobile Wallet,Monthly
+CUST0156,27,Female,Chicago,100048,No,PayPal,Weekly
+CUST0157,58,Male,Phoenix,82129,No,Credit Card,Weekly
+CUST0158,28,Male,Phoenix,58551,Yes,Cash,Weekly
+CUST0159,68,Female,Los Angeles,86314,No,Debit Card,Monthly
+CUST0160,61,Female,New York,57767,Yes,PayPal,Quarterly
+CUST0161,45,Female,Phoenix,94843,Yes,PayPal,Weekly
+CUST0162,56,Male,Houston,65197,No,Debit Card,Monthly
+CUST0163,22,Male,Los Angeles,72318,No,Cash,Quarterly
+CUST0164,42,Female,Phoenix,67171,Yes,PayPal,Weekly
+CUST0165,42,Male,Phoenix,74270,Yes,PayPal,Weekly
+CUST0166,56,Female,Houston,101737,Yes,Mobile Wallet,Monthly
+CUST0167,47,Female,Los Angeles,105750,No,PayPal,Monthly
+CUST0168,51,Female,Los Angeles,47117,Yes,Credit Card,Quarterly
+CUST0169,34,Male,New York,104205,Yes,Credit Card,Quarterly
+CUST0170,53,Male,Phoenix,93614,No,Debit Card,Monthly
+CUST0171,18,Male,New York,75054,No,Debit Card,Monthly
+CUST0172,61,Male,Los Angeles,119463,No,Cash,Weekly
+CUST0173,64,Female,New York,36345,No,Cash,Weekly
+CUST0174,25,Male,Houston,36021,No,Mobile Wallet,Quarterly
+CUST0175,61,Female,Chicago,43051,No,Debit Card,Quarterly
+CUST0176,52,Male,Houston,112074,Yes,Mobile Wallet,Weekly
+CUST0177,66,Male,Los Angeles,90238,Yes,Cash,Weekly
+CUST0178,35,Male,Houston,32134,Yes,PayPal,Quarterly
+CUST0179,67,Female,Los Angeles,46284,No,Mobile Wallet,Weekly
+CUST0180,59,Male,Houston,50707,Yes,PayPal,Monthly
+CUST0181,39,Male,Phoenix,87840,No,Mobile Wallet,Monthly
+CUST0182,25,Female,Phoenix,89836,Yes,Mobile Wallet,Quarterly
+CUST0183,36,Female,Houston,30088,Yes,Cash,Quarterly
+CUST0184,45,Female,New York,86072,Yes,Mobile Wallet,Weekly
+CUST0185,28,Female,Los Angeles,56518,Yes,Cash,Weekly
+CUST0186,47,Female,Phoenix,47290,Yes,Mobile Wallet,Monthly
+CUST0187,18,Female,Los Angeles,115196,No,Mobile Wallet,Weekly
+CUST0188,64,Male,Phoenix,69566,No,Debit Card,Quarterly
+CUST0189,64,Female,Chicago,50837,Yes,Debit Card,Quarterly
+CUST0190,34,Male,Houston,65916,Yes,Cash,Weekly
+CUST0191,50,Female,Phoenix,42234,No,Mobile Wallet,Monthly
+CUST0192,66,Male,Houston,115798,No,PayPal,Monthly
+CUST0193,29,Male,Chicago,77242,Yes,Credit Card,Weekly
+CUST0194,50,Male,Los Angeles,62819,Yes,Cash,Weekly
+CUST0195,24,Female,Houston,40803,Yes,Debit Card,Quarterly
+CUST0196,58,Female,Phoenix,78738,No,Debit Card,Quarterly
+CUST0197,37,Female,Chicago,117098,No,Cash,Quarterly
+CUST0198,58,Female,Phoenix,115054,No,Debit Card,Monthly
+CUST0199,50,Male,Chicago,51695,No,PayPal,Weekly
+CUST0200,56,Female,Chicago,36787,No,Debit Card,Quarterly
+CUST0201,30,Female,Phoenix,81949,Yes,Credit Card,Monthly
+CUST0202,27,Female,Houston,111999,No,Credit Card,Quarterly
+CUST0203,41,Male,Los Angeles,70043,No,Mobile Wallet,Weekly
+CUST0204,66,Female,Los Angeles,60689,No,PayPal,Monthly
+CUST0205,28,Female,Chicago,86260,Yes,Debit Card,Weekly
+CUST0206,52,Female,Phoenix,115915,Yes,Debit Card,Weekly
+CUST0207,67,Female,Chicago,41953,No,Cash,Monthly
+CUST0208,51,Female,Los Angeles,42475,Yes,Mobile Wallet,Monthly
+CUST0209,18,Female,Chicago,30142,Yes,Credit Card,Quarterly
+CUST0210,56,Female,Chicago,57973,Yes,Cash,Monthly
+CUST0211,38,Male,Los Angeles,92496,Yes,Cash,Monthly
+CUST0212,49,Male,Houston,40215,Yes,Debit Card,Quarterly
+CUST0213,19,Female,Chicago,47393,Yes,Credit Card,Weekly
+CUST0214,25,Male,Houston,107814,Yes,Cash,Monthly
+CUST0215,41,Female,Chicago,59647,Yes,Debit Card,Weekly
+CUST0216,69,Male,Phoenix,98084,No,Mobile Wallet,Weekly
+CUST0217,37,Female,Chicago,119126,Yes,PayPal,Monthly
+CUST0218,33,Female,Chicago,88335,No,Credit Card,Weekly
+CUST0219,21,Female,New York,31217,No,Mobile Wallet,Weekly
+CUST0220,33,Female,Phoenix,31056,Yes,Debit Card,Quarterly
+CUST0221,54,Male,Phoenix,75032,Yes,PayPal,Quarterly
+CUST0222,23,Female,Houston,45806,Yes,Cash,Quarterly
+CUST0223,23,Male,Houston,85353,Yes,Mobile Wallet,Weekly
+CUST0224,64,Male,Chicago,47324,Yes,Cash,Weekly
+CUST0225,49,Female,Los Angeles,92613,Yes,Cash,Quarterly
+CUST0226,70,Male,Chicago,39283,No,PayPal,Monthly
+CUST0227,22,Female,New York,60008,No,PayPal,Quarterly
+CUST0228,66,Male,Chicago,80209,No,Cash,Monthly
+CUST0229,52,Female,New York,41708,Yes,Cash,Monthly
+CUST0230,67,Male,Chicago,43425,No,PayPal,Weekly
+CUST0231,26,Male,Houston,43526,No,Debit Card,Quarterly
+CUST0232,26,Female,Chicago,71071,Yes,Credit Card,Monthly
+CUST0233,60,Male,Houston,78177,Yes,Cash,Quarterly
+CUST0234,48,Male,Los Angeles,69223,Yes,PayPal,Weekly
+CUST0235,53,Female,Los Angeles,47973,No,Mobile Wallet,Weekly
+CUST0236,28,Female,Phoenix,80164,No,Mobile Wallet,Weekly
+CUST0237,34,Female,Chicago,47451,Yes,Debit Card,Monthly
+CUST0238,51,Female,Phoenix,114092,No,Debit Card,Quarterly
+CUST0239,56,Male,Chicago,118753,Yes,Mobile Wallet,Monthly
+CUST0240,45,Female,Los Angeles,48724,No,Debit Card,Quarterly
+CUST0241,31,Female,New York,38966,Yes,Cash,Monthly
+CUST0242,52,Female,Phoenix,99534,Yes,PayPal,Weekly
+CUST0243,66,Female,Phoenix,103831,No,Credit Card,Weekly
+CUST0244,64,Male,Los Angeles,31110,Yes,PayPal,Weekly
+CUST0245,62,Male,Los Angeles,109995,Yes,PayPal,Monthly
+CUST0246,30,Male,New York,115199,No,Debit Card,Quarterly
+CUST0247,63,Female,Phoenix,51511,Yes,Credit Card,Weekly
+CUST0248,37,Male,Los Angeles,87684,Yes,Cash,Weekly
+CUST0249,43,Male,Los Angeles,76030,No,Mobile Wallet,Monthly
+CUST0250,60,Female,New York,57925,Yes,Cash,Weekly
+CUST0251,59,Male,New York,112323,No,Debit Card,Weekly
+CUST0252,41,Male,Houston,49840,No,Mobile Wallet,Monthly
+CUST0253,46,Female,Chicago,83963,No,Cash,Monthly
+CUST0254,51,Male,Houston,110750,Yes,PayPal,Weekly
+CUST0255,46,Female,New York,119989,Yes,Debit Card,Quarterly
+CUST0256,25,Male,Los Angeles,87984,No,Credit Card,Quarterly
+CUST0257,33,Male,New York,58474,Yes,PayPal,Quarterly
+CUST0258,32,Female,Phoenix,41362,No,Credit Card,Quarterly
+CUST0259,22,Male,Los Angeles,43168,No,Mobile Wallet,Quarterly
+CUST0260,39,Female,Houston,48351,Yes,Credit Card,Quarterly
+CUST0261,19,Female,Houston,46142,Yes,PayPal,Monthly
+CUST0262,55,Female,Houston,107276,Yes,Credit Card,Quarterly
+CUST0263,53,Female,Los Angeles,80335,Yes,Debit Card,Monthly
+CUST0264,32,Male,Chicago,76076,Yes,Debit Card,Monthly
+CUST0265,55,Male,Chicago,86280,No,PayPal,Monthly
+CUST0266,32,Female,Chicago,71222,Yes,Cash,Weekly
+CUST0267,18,Male,New York,48327,Yes,Credit Card,Quarterly
+CUST0268,22,Male,New York,62477,Yes,PayPal,Quarterly
+CUST0269,63,Male,Phoenix,66302,Yes,Credit Card,Quarterly
+CUST0270,58,Male,Los Angeles,114491,No,PayPal,Weekly
+CUST0271,21,Female,Phoenix,41042,Yes,Credit Card,Monthly
+CUST0272,32,Male,New York,62527,No,Cash,Quarterly
+CUST0273,22,Female,Los Angeles,102534,No,PayPal,Weekly
+CUST0274,20,Male,Houston,108774,No,Debit Card,Weekly
+CUST0275,39,Male,Los Angeles,108644,No,Cash,Quarterly
+CUST0276,22,Female,New York,109638,Yes,Debit Card,Monthly
+CUST0277,50,Female,Houston,67345,Yes,Cash,Weekly
+CUST0278,33,Female,Houston,33515,Yes,Debit Card,Monthly
+CUST0279,35,Female,Los Angeles,116298,Yes,Cash,Monthly
+CUST0280,60,Male,Chicago,69537,No,Credit Card,Quarterly
+CUST0281,49,Female,New York,56928,No,Debit Card,Quarterly
+CUST0282,31,Female,New York,97862,No,Credit Card,Quarterly
+CUST0283,52,Male,Chicago,109551,No,PayPal,Monthly
+CUST0284,26,Male,Phoenix,96784,Yes,Credit Card,Monthly
+CUST0285,64,Female,Phoenix,54726,Yes,Debit Card,Weekly
+CUST0286,54,Female,New York,81347,Yes,Cash,Weekly
+CUST0287,54,Female,Chicago,68737,Yes,Credit Card,Weekly
+CUST0288,48,Female,Chicago,114694,Yes,Mobile Wallet,Quarterly
+CUST0289,33,Female,Houston,37152,Yes,Cash,Monthly
+CUST0290,68,Female,Phoenix,61370,No,PayPal,Monthly
+CUST0291,48,Female,Phoenix,94865,No,PayPal,Monthly
+CUST0292,69,Male,Houston,80578,No,Debit Card,Weekly
+CUST0293,44,Female,Los Angeles,44777,No,Cash,Quarterly
+CUST0294,30,Female,Phoenix,61599,Yes,Credit Card,Quarterly
+CUST0295,24,Male,Houston,95481,No,Credit Card,Monthly
+CUST0296,24,Male,Chicago,113634,No,PayPal,Monthly
+CUST0297,60,Female,Los Angeles,107847,Yes,Cash,Monthly
+CUST0298,45,Female,New York,39307,Yes,Cash,Monthly
+CUST0299,40,Female,Chicago,99243,No,PayPal,Weekly
+CUST0300,45,Female,Los Angeles,31581,No,Credit Card,Weekly
+CUST0301,44,Male,Houston,77329,No,PayPal,Monthly
+CUST0302,47,Female,Chicago,71480,No,Cash,Weekly
+CUST0303,64,Female,Los Angeles,47299,No,Credit Card,Monthly
+CUST0304,21,Male,New York,80703,No,Mobile Wallet,Monthly
+CUST0305,61,Male,Chicago,104498,No,PayPal,Monthly
+CUST0306,59,Female,Chicago,85163,Yes,Cash,Weekly
+CUST0307,59,Female,Phoenix,77895,Yes,Cash,Monthly
+CUST0308,24,Male,Los Angeles,101612,Yes,Debit Card,Monthly
+CUST0309,21,Female,Los Angeles,119514,Yes,Debit Card,Quarterly
+CUST0310,43,Male,Phoenix,52645,Yes,PayPal,Quarterly
+CUST0311,64,Male,Houston,91736,Yes,Credit Card,Weekly
+CUST0312,39,Female,Houston,39567,No,Mobile Wallet,Quarterly
+CUST0313,69,Male,Phoenix,32187,No,Mobile Wallet,Weekly
+CUST0314,24,Male,Chicago,106986,No,Credit Card,Monthly
+CUST0315,33,Male,New York,38851,Yes,Debit Card,Quarterly
+CUST0316,30,Female,Houston,31807,No,Cash,Weekly
+CUST0317,30,Female,New York,64365,No,Debit Card,Monthly
+CUST0318,52,Male,Los Angeles,58277,Yes,PayPal,Quarterly
+CUST0319,46,Female,Los Angeles,35220,Yes,Debit Card,Quarterly
+CUST0320,26,Male,Houston,37925,No,Credit Card,Weekly
+CUST0321,45,Male,Chicago,82163,No,PayPal,Monthly
+CUST0322,29,Female,Los Angeles,96402,Yes,Credit Card,Quarterly
+CUST0323,35,Female,New York,67550,No,PayPal,Monthly
+CUST0324,47,Female,Chicago,112388,No,Cash,Monthly
+CUST0325,33,Male,Houston,95673,Yes,Debit Card,Quarterly
+CUST0326,22,Male,Los Angeles,84451,Yes,Credit Card,Monthly
+CUST0327,46,Male,Houston,85518,No,PayPal,Weekly
+CUST0328,69,Female,Chicago,82727,No,Debit Card,Quarterly
+CUST0329,53,Female,Chicago,40803,Yes,Mobile Wallet,Weekly
+CUST0330,24,Male,Chicago,113956,Yes,Credit Card,Quarterly
+CUST0331,21,Female,Phoenix,100328,No,Cash,Weekly
+CUST0332,59,Female,Phoenix,100471,Yes,PayPal,Monthly
+CUST0333,52,Female,New York,110746,No,Credit Card,Monthly
+CUST0334,18,Female,Chicago,50012,Yes,Credit Card,Weekly
+CUST0335,23,Male,Chicago,66368,No,Mobile Wallet,Monthly
+CUST0336,66,Female,Los Angeles,40957,No,Cash,Weekly
+CUST0337,33,Male,New York,70620,No,Mobile Wallet,Quarterly
+CUST0338,28,Male,New York,40357,Yes,PayPal,Quarterly
+CUST0339,44,Male,Houston,97017,Yes,Debit Card,Monthly
+CUST0340,49,Female,Chicago,56633,Yes,Credit Card,Monthly
+CUST0341,48,Female,Los Angeles,50365,Yes,PayPal,Quarterly
+CUST0342,31,Male,Houston,100305,No,PayPal,Monthly
+CUST0343,43,Female,Phoenix,72827,No,Cash,Quarterly
+CUST0344,21,Male,Chicago,81213,Yes,Credit Card,Quarterly
+CUST0345,28,Female,New York,106865,Yes,Mobile Wallet,Weekly
+CUST0346,42,Male,Chicago,113138,No,Debit Card,Weekly
+CUST0347,18,Female,Chicago,115175,No,Credit Card,Quarterly
+CUST0348,42,Female,Phoenix,119267,Yes,Credit Card,Quarterly
+CUST0349,34,Female,Los Angeles,114299,No,Debit Card,Weekly
+CUST0350,68,Female,Los Angeles,38665,No,PayPal,Quarterly
+CUST0351,68,Female,Los Angeles,70654,Yes,Mobile Wallet,Quarterly
+CUST0352,47,Male,Houston,87342,Yes,Credit Card,Quarterly
+CUST0353,36,Male,Los Angeles,61278,No,PayPal,Monthly
+CUST0354,45,Female,Houston,37589,No,Cash,Weekly
+CUST0355,62,Male,Phoenix,62044,Yes,PayPal,Quarterly
+CUST0356,64,Female,Chicago,41300,Yes,Debit Card,Quarterly
+CUST0357,68,Male,Houston,86948,No,Mobile Wallet,Monthly
+CUST0358,53,Male,Phoenix,45202,No,Debit Card,Monthly
+CUST0359,60,Female,Houston,89424,No,Cash,Quarterly
+CUST0360,63,Female,Phoenix,110254,Yes,PayPal,Weekly
+CUST0361,49,Female,Los Angeles,109800,No,Credit Card,Monthly
+CUST0362,27,Male,Los Angeles,37212,No,Cash,Weekly
+CUST0363,30,Male,Phoenix,70539,No,Debit Card,Monthly
+CUST0364,36,Male,New York,117304,Yes,PayPal,Monthly
+CUST0365,31,Male,Phoenix,116252,No,Debit Card,Weekly
+CUST0366,21,Female,Houston,53022,Yes,Credit Card,Quarterly
+CUST0367,55,Female,Phoenix,45655,Yes,Cash,Weekly
+CUST0368,65,Male,Chicago,31660,No,Cash,Quarterly
+CUST0369,52,Male,New York,47984,No,Mobile Wallet,Quarterly
+CUST0370,21,Male,Phoenix,31487,Yes,Debit Card,Monthly
+CUST0371,65,Male,New York,51473,Yes,Mobile Wallet,Monthly
+CUST0372,38,Female,New York,95065,Yes,Cash,Monthly
+CUST0373,21,Female,Phoenix,75443,No,PayPal,Quarterly
+CUST0374,21,Female,Phoenix,98551,Yes,Mobile Wallet,Quarterly
+CUST0375,55,Female,Los Angeles,97793,No,PayPal,Weekly
+CUST0376,48,Male,Phoenix,63980,No,Mobile Wallet,Weekly
+CUST0377,50,Female,Phoenix,51884,No,Debit Card,Weekly
+CUST0378,51,Male,Los Angeles,78741,Yes,Debit Card,Weekly
+CUST0379,28,Female,Los Angeles,46637,Yes,Cash,Quarterly
+CUST0380,21,Female,Chicago,65227,No,Debit Card,Quarterly
+CUST0381,50,Female,Phoenix,45473,No,Mobile Wallet,Weekly
+CUST0382,23,Male,Houston,33847,No,Mobile Wallet,Weekly
+CUST0383,29,Female,New York,73910,No,PayPal,Quarterly
+CUST0384,22,Male,Los Angeles,86272,No,Credit Card,Weekly
+CUST0385,56,Female,Phoenix,65649,Yes,Mobile Wallet,Monthly
+CUST0386,22,Female,Houston,98662,Yes,PayPal,Quarterly
+CUST0387,61,Male,New York,38371,Yes,Cash,Monthly
+CUST0388,33,Female,Phoenix,64465,Yes,Debit Card,Monthly
+CUST0389,43,Male,Houston,105582,No,Debit Card,Quarterly
+CUST0390,25,Female,New York,112251,No,Mobile Wallet,Quarterly
+CUST0391,54,Female,Houston,40101,No,Debit Card,Monthly
+CUST0392,33,Male,Los Angeles,95031,No,Cash,Weekly
+CUST0393,55,Female,Phoenix,89663,Yes,Credit Card,Weekly
+CUST0394,56,Female,Houston,96949,Yes,Mobile Wallet,Quarterly
+CUST0395,20,Male,Houston,77202,Yes,Cash,Monthly
+CUST0396,57,Male,Phoenix,37266,No,PayPal,Monthly
+CUST0397,23,Female,New York,95484,Yes,Credit Card,Quarterly
+CUST0398,44,Male,Phoenix,104302,No,Mobile Wallet,Quarterly
+CUST0399,60,Male,Houston,51873,Yes,Debit Card,Monthly
+CUST0400,55,Male,Chicago,78193,No,Mobile Wallet,Monthly
+CUST0401,54,Male,New York,50618,Yes,PayPal,Quarterly
+CUST0402,51,Female,Houston,63438,Yes,Debit Card,Monthly
+CUST0403,38,Male,Chicago,43487,Yes,Credit Card,Weekly
+CUST0404,34,Male,New York,105223,No,Mobile Wallet,Quarterly
+CUST0405,31,Male,Los Angeles,118358,Yes,Cash,Weekly
+CUST0406,60,Male,Phoenix,45117,No,PayPal,Quarterly
+CUST0407,63,Male,New York,59937,Yes,Mobile Wallet,Quarterly
+CUST0408,38,Male,New York,96692,No,Cash,Monthly
+CUST0409,33,Male,Houston,30336,Yes,Mobile Wallet,Weekly
+CUST0410,34,Female,Chicago,35772,No,PayPal,Monthly
+CUST0411,43,Male,New York,31610,Yes,Mobile Wallet,Weekly
+CUST0412,26,Male,Phoenix,62053,Yes,Debit Card,Monthly
+CUST0413,60,Female,New York,36026,No,Debit Card,Quarterly
+CUST0414,59,Male,New York,91835,No,Cash,Weekly
+CUST0415,37,Male,Houston,77707,Yes,Debit Card,Weekly
+CUST0416,47,Female,New York,80197,No,Credit Card,Quarterly
+CUST0417,38,Male,Chicago,49671,Yes,Credit Card,Quarterly
+CUST0418,66,Male,Houston,53456,Yes,Mobile Wallet,Monthly
+CUST0419,22,Male,Los Angeles,34635,No,Credit Card,Weekly
+CUST0420,18,Male,Los Angeles,102465,No,Credit Card,Monthly
+CUST0421,47,Male,Houston,115944,Yes,PayPal,Weekly
+CUST0422,57,Female,Chicago,84967,Yes,PayPal,Weekly
+CUST0423,54,Male,Houston,59427,Yes,Credit Card,Monthly
+CUST0424,24,Female,Houston,72179,Yes,PayPal,Quarterly
+CUST0425,22,Male,Houston,62540,No,Credit Card,Quarterly
+CUST0426,52,Male,Houston,84559,No,Cash,Monthly
+CUST0427,31,Female,New York,71934,No,PayPal,Quarterly
+CUST0428,50,Male,Phoenix,65554,No,Credit Card,Monthly
+CUST0429,34,Male,Los Angeles,40208,Yes,Credit Card,Quarterly
+CUST0430,26,Female,Chicago,104912,No,Mobile Wallet,Monthly
+CUST0431,40,Male,New York,78864,No,Cash,Monthly
+CUST0432,22,Male,Los Angeles,45650,No,Cash,Monthly
+CUST0433,33,Female,Phoenix,95803,No,Mobile Wallet,Monthly
+CUST0434,41,Female,Houston,118254,No,Mobile Wallet,Quarterly
+CUST0435,36,Female,Phoenix,36903,Yes,Mobile Wallet,Weekly
+CUST0436,28,Male,Los Angeles,53507,Yes,Debit Card,Quarterly
+CUST0437,46,Female,Los Angeles,59253,No,Credit Card,Weekly
+CUST0438,52,Male,New York,97603,No,Debit Card,Monthly
+CUST0439,63,Male,New York,36019,No,PayPal,Weekly
+CUST0440,37,Female,Chicago,82550,Yes,Mobile Wallet,Weekly
+CUST0441,57,Female,Houston,39034,Yes,Credit Card,Quarterly
+CUST0442,69,Male,Phoenix,90960,Yes,Credit Card,Monthly
+CUST0443,59,Male,Houston,67002,No,PayPal,Monthly
+CUST0444,51,Female,Phoenix,70723,No,Cash,Monthly
+CUST0445,18,Female,Houston,72899,Yes,Credit Card,Weekly
+CUST0446,60,Female,Los Angeles,41322,Yes,Cash,Monthly
+CUST0447,70,Male,Los Angeles,102494,No,Credit Card,Quarterly
+CUST0448,53,Female,Houston,89866,Yes,Debit Card,Weekly
+CUST0449,37,Female,Chicago,31044,No,Mobile Wallet,Weekly
+CUST0450,60,Male,Los Angeles,78354,No,Cash,Weekly
+CUST0451,24,Male,Chicago,56302,No,Debit Card,Weekly
+CUST0452,26,Female,Los Angeles,68219,No,Credit Card,Quarterly
+CUST0453,34,Male,New York,103899,No,Mobile Wallet,Weekly
+CUST0454,25,Male,New York,69834,Yes,Debit Card,Weekly
+CUST0455,24,Male,Houston,111620,Yes,Mobile Wallet,Quarterly
+CUST0456,65,Female,Phoenix,61795,Yes,Credit Card,Monthly
+CUST0457,53,Female,New York,90807,No,Credit Card,Quarterly
+CUST0458,27,Female,Los Angeles,78270,Yes,Debit Card,Monthly
+CUST0459,35,Female,Los Angeles,107554,Yes,Credit Card,Weekly
+CUST0460,36,Female,New York,94665,Yes,PayPal,Weekly
+CUST0461,56,Female,New York,55614,Yes,Mobile Wallet,Weekly
+CUST0462,31,Male,Phoenix,101638,No,Credit Card,Quarterly
+CUST0463,63,Male,New York,62129,Yes,Credit Card,Monthly
+CUST0464,39,Male,Houston,49735,No,PayPal,Monthly
+CUST0465,31,Female,Phoenix,30835,No,Mobile Wallet,Quarterly
+CUST0466,61,Female,New York,83744,Yes,Cash,Quarterly
+CUST0467,58,Male,Los Angeles,33133,Yes,PayPal,Monthly
+CUST0468,34,Female,New York,60539,No,PayPal,Quarterly
+CUST0469,50,Female,Houston,100981,Yes,Mobile Wallet,Weekly
+CUST0470,49,Female,Houston,75406,Yes,PayPal,Monthly
+CUST0471,34,Female,Los Angeles,113354,No,Mobile Wallet,Quarterly
+CUST0472,21,Female,Phoenix,31257,No,PayPal,Monthly
+CUST0473,23,Male,Los Angeles,73911,Yes,Mobile Wallet,Quarterly
+CUST0474,58,Female,New York,30191,Yes,Mobile Wallet,Monthly
+CUST0475,45,Female,Los Angeles,116154,No,Cash,Monthly
+CUST0476,35,Female,Phoenix,79319,Yes,Credit Card,Monthly
+CUST0477,20,Female,Chicago,70306,No,Mobile Wallet,Weekly
+CUST0478,18,Female,Los Angeles,43624,Yes,Debit Card,Weekly
+CUST0479,39,Male,Phoenix,56895,No,Cash,Monthly
+CUST0480,67,Female,Chicago,99443,No,Cash,Quarterly
+CUST0481,26,Male,Phoenix,61217,No,Credit Card,Weekly
+CUST0482,58,Male,Phoenix,85026,No,PayPal,Quarterly
+CUST0483,34,Male,Chicago,94491,Yes,PayPal,Monthly
+CUST0484,28,Male,Los Angeles,37850,Yes,Mobile Wallet,Quarterly
+CUST0485,65,Female,Chicago,48661,No,Cash,Weekly
+CUST0486,46,Male,Los Angeles,66677,Yes,Mobile Wallet,Quarterly
+CUST0487,53,Female,Phoenix,42193,No,Debit Card,Quarterly
+CUST0488,63,Male,Los Angeles,35754,Yes,PayPal,Monthly
+CUST0489,45,Male,Houston,60339,No,Mobile Wallet,Monthly
+CUST0490,53,Female,Chicago,98125,Yes,Mobile Wallet,Quarterly
+CUST0491,18,Male,Chicago,84140,Yes,Cash,Quarterly
+CUST0492,25,Female,New York,78823,No,Debit Card,Monthly
+CUST0493,22,Female,Phoenix,90091,No,Debit Card,Weekly
+CUST0494,62,Female,Phoenix,41128,Yes,Mobile Wallet,Weekly
+CUST0495,27,Male,Los Angeles,106122,Yes,Debit Card,Quarterly
+CUST0496,52,Female,Houston,42527,Yes,Debit Card,Monthly
+CUST0497,20,Female,Phoenix,96247,Yes,Cash,Quarterly
+CUST0498,41,Female,Houston,47499,Yes,Cash,Monthly
+CUST0499,55,Male,New York,113521,No,Debit Card,Weekly
+CUST0500,53,Male,Chicago,81688,Yes,Mobile Wallet,Quarterly
+CUST0501,27,Male,Houston,39808,No,PayPal,Monthly
+CUST0502,45,Female,Phoenix,107580,No,Mobile Wallet,Quarterly
+CUST0503,26,Male,Chicago,104425,No,Mobile Wallet,Weekly
+CUST0504,20,Male,Houston,38163,Yes,PayPal,Weekly
+CUST0505,37,Female,Houston,87014,Yes,Cash,Quarterly
+CUST0506,41,Female,Los Angeles,116827,No,Mobile Wallet,Quarterly
+CUST0507,68,Male,Chicago,47132,Yes,Debit Card,Quarterly
+CUST0508,20,Female,Houston,61034,No,Debit Card,Monthly
+CUST0509,40,Male,Los Angeles,68230,No,Cash,Monthly
+CUST0510,31,Female,Phoenix,64208,Yes,Cash,Quarterly
+CUST0511,61,Male,Houston,71288,Yes,Cash,Weekly
+CUST0512,33,Female,Los Angeles,81505,Yes,Credit Card,Quarterly
+CUST0513,60,Male,Los Angeles,72762,No,Credit Card,Quarterly
+CUST0514,24,Male,Chicago,71688,Yes,Debit Card,Weekly
+CUST0515,40,Female,Los Angeles,89343,No,Mobile Wallet,Weekly
+CUST0516,67,Female,Houston,65645,No,Credit Card,Monthly
+CUST0517,53,Female,New York,60619,No,Mobile Wallet,Quarterly
+CUST0518,44,Female,Phoenix,39789,Yes,PayPal,Quarterly
+CUST0519,57,Male,Houston,56569,No,Debit Card,Quarterly
+CUST0520,65,Male,Houston,47840,Yes,Credit Card,Quarterly
+CUST0521,27,Male,Phoenix,106638,Yes,Debit Card,Weekly
+CUST0522,33,Female,Phoenix,44283,Yes,PayPal,Quarterly
+CUST0523,28,Male,Los Angeles,50369,Yes,PayPal,Quarterly
+CUST0524,69,Male,Houston,43848,No,Debit Card,Quarterly
+CUST0525,69,Male,Los Angeles,51544,No,Credit Card,Quarterly
+CUST0526,29,Male,Chicago,88925,Yes,Debit Card,Monthly
+CUST0527,44,Male,Los Angeles,91086,No,Mobile Wallet,Quarterly
+CUST0528,19,Female,Chicago,71160,Yes,Mobile Wallet,Weekly
+CUST0529,29,Female,New York,83282,Yes,Mobile Wallet,Monthly
+CUST0530,65,Female,Houston,45825,No,Mobile Wallet,Quarterly
+CUST0531,39,Female,Chicago,100244,No,Mobile Wallet,Weekly
+CUST0532,68,Male,New York,76961,No,PayPal,Monthly
+CUST0533,44,Female,Phoenix,57215,No,Credit Card,Monthly
+CUST0534,69,Female,Los Angeles,89233,Yes,Credit Card,Quarterly
+CUST0535,60,Female,New York,70410,No,Cash,Monthly
+CUST0536,65,Male,Chicago,90731,Yes,Debit Card,Quarterly
+CUST0537,69,Male,Houston,64735,Yes,PayPal,Quarterly
+CUST0538,33,Male,Phoenix,45717,No,PayPal,Monthly
+CUST0539,35,Male,Phoenix,41851,No,Debit Card,Monthly
+CUST0540,28,Male,New York,50658,Yes,Debit Card,Monthly
+CUST0541,68,Male,New York,119922,Yes,Mobile Wallet,Monthly
+CUST0542,62,Female,Los Angeles,69874,Yes,PayPal,Monthly
+CUST0543,24,Female,Phoenix,109076,No,PayPal,Weekly
+CUST0544,42,Female,Phoenix,35286,No,Debit Card,Weekly
+CUST0545,20,Female,Los Angeles,58183,Yes,Debit Card,Quarterly
+CUST0546,48,Female,Houston,72964,No,Credit Card,Quarterly
+CUST0547,32,Female,Los Angeles,49441,No,Mobile Wallet,Quarterly
+CUST0548,30,Female,Chicago,41955,No,Cash,Monthly
+CUST0549,70,Male,Chicago,62534,Yes,Mobile Wallet,Quarterly
+CUST0550,47,Male,New York,76627,No,PayPal,Quarterly
+CUST0551,40,Female,Los Angeles,81936,No,Credit Card,Monthly
+CUST0552,37,Female,Los Angeles,97300,No,Debit Card,Weekly
+CUST0553,70,Male,New York,36416,Yes,Cash,Quarterly
+CUST0554,68,Female,Houston,118759,No,PayPal,Monthly
+CUST0555,32,Female,Los Angeles,69169,Yes,Cash,Quarterly
+CUST0556,32,Female,Phoenix,64100,No,Mobile Wallet,Weekly
+CUST0557,19,Male,Los Angeles,52789,Yes,Credit Card,Quarterly
+CUST0558,60,Male,Houston,34073,Yes,Mobile Wallet,Weekly
+CUST0559,30,Female,Los Angeles,83004,Yes,Debit Card,Quarterly
+CUST0560,43,Male,Phoenix,89270,Yes,Credit Card,Monthly
+CUST0561,39,Male,Chicago,102869,Yes,Mobile Wallet,Quarterly
+CUST0562,35,Male,Chicago,102105,Yes,Cash,Quarterly
+CUST0563,22,Female,Houston,62748,Yes,Credit Card,Weekly
+CUST0564,67,Male,Houston,42415,No,Credit Card,Monthly
+CUST0565,35,Male,Phoenix,90560,Yes,Debit Card,Monthly
+CUST0566,40,Female,Chicago,43357,Yes,Debit Card,Weekly
+CUST0567,59,Female,Chicago,48322,No,Cash,Weekly
+CUST0568,50,Female,Chicago,45919,Yes,Cash,Quarterly
+CUST0569,43,Male,Chicago,31567,Yes,Credit Card,Weekly
+CUST0570,61,Male,Phoenix,38083,Yes,PayPal,Monthly
+CUST0571,52,Female,Houston,59135,No,Mobile Wallet,Monthly
+CUST0572,39,Female,Houston,47133,No,Credit Card,Weekly
+CUST0573,19,Male,New York,55969,Yes,Cash,Quarterly
+CUST0574,25,Male,Houston,82505,Yes,Credit Card,Monthly
+CUST0575,34,Female,Chicago,78790,Yes,Debit Card,Monthly
+CUST0576,29,Male,Los Angeles,119952,Yes,Mobile Wallet,Monthly
+CUST0577,55,Female,Chicago,112614,Yes,Credit Card,Weekly
+CUST0578,34,Male,Chicago,114500,No,Debit Card,Quarterly
+CUST0579,20,Female,Houston,41015,Yes,Mobile Wallet,Weekly
+CUST0580,24,Male,New York,106326,Yes,Mobile Wallet,Quarterly
+CUST0581,56,Female,Phoenix,106823,No,PayPal,Weekly
+CUST0582,45,Male,Los Angeles,63924,No,Debit Card,Quarterly
+CUST0583,40,Female,Los Angeles,39828,No,Mobile Wallet,Quarterly
+CUST0584,64,Male,New York,32857,No,PayPal,Weekly
+CUST0585,68,Female,Chicago,38450,No,PayPal,Quarterly
+CUST0586,38,Female,Phoenix,55919,No,Credit Card,Monthly
+CUST0587,45,Female,Phoenix,114670,No,Cash,Monthly
+CUST0588,56,Female,Phoenix,88121,Yes,Cash,Weekly
+CUST0589,50,Female,Houston,46880,No,Mobile Wallet,Monthly
+CUST0590,25,Male,Chicago,42055,Yes,Mobile Wallet,Quarterly
+CUST0591,42,Female,Los Angeles,73456,Yes,Mobile Wallet,Weekly
+CUST0592,54,Male,Los Angeles,46059,Yes,Credit Card,Monthly
+CUST0593,30,Female,Chicago,35596,Yes,PayPal,Weekly
+CUST0594,34,Male,Los Angeles,90423,Yes,Cash,Quarterly
+CUST0595,20,Female,Houston,36637,No,Debit Card,Weekly
+CUST0596,63,Female,Phoenix,52018,Yes,Cash,Monthly
+CUST0597,45,Male,Los Angeles,105220,No,PayPal,Weekly
+CUST0598,18,Female,Houston,86774,No,PayPal,Weekly
+CUST0599,51,Male,Phoenix,81773,Yes,Debit Card,Quarterly
+CUST0600,69,Male,Chicago,95028,No,Credit Card,Weekly
+CUST0601,52,Female,Chicago,33864,No,Cash,Monthly
+CUST0602,61,Female,Houston,80165,No,Mobile Wallet,Monthly
+CUST0603,64,Male,Houston,119550,No,Credit Card,Monthly
+CUST0604,65,Female,Houston,85923,Yes,Mobile Wallet,Weekly
+CUST0605,65,Female,Los Angeles,52650,No,Cash,Quarterly
+CUST0606,60,Female,Chicago,76392,Yes,Debit Card,Monthly
+CUST0607,30,Male,Los Angeles,58143,Yes,Credit Card,Quarterly
+CUST0608,41,Female,Los Angeles,54530,Yes,Cash,Quarterly
+CUST0609,45,Male,Phoenix,66042,No,Mobile Wallet,Weekly
+CUST0610,22,Male,Houston,66681,No,Cash,Weekly
+CUST0611,60,Male,Los Angeles,88459,Yes,PayPal,Quarterly
+CUST0612,39,Male,Phoenix,49481,No,PayPal,Quarterly
+CUST0613,57,Female,New York,34541,No,Cash,Monthly
+CUST0614,38,Female,Phoenix,110492,Yes,Mobile Wallet,Weekly
+CUST0615,60,Male,New York,111156,Yes,PayPal,Quarterly
+CUST0616,25,Male,New York,110868,Yes,Cash,Monthly
+CUST0617,64,Male,New York,62215,Yes,Cash,Weekly
+CUST0618,37,Male,New York,114840,Yes,Mobile Wallet,Weekly
+CUST0619,50,Female,Houston,68680,No,PayPal,Weekly
+CUST0620,37,Male,Los Angeles,95390,Yes,Mobile Wallet,Monthly
+CUST0621,60,Male,Los Angeles,84000,No,Mobile Wallet,Monthly
+CUST0622,44,Male,New York,102179,Yes,Mobile Wallet,Monthly
+CUST0623,38,Male,Los Angeles,92787,No,PayPal,Monthly
+CUST0624,43,Male,New York,37992,Yes,PayPal,Monthly
+CUST0625,62,Female,Los Angeles,41497,No,Credit Card,Quarterly
+CUST0626,36,Female,Phoenix,66670,Yes,Debit Card,Quarterly
+CUST0627,53,Female,Houston,80202,Yes,Cash,Weekly
+CUST0628,26,Female,Chicago,47987,Yes,Debit Card,Monthly
+CUST0629,30,Female,New York,84949,Yes,Mobile Wallet,Quarterly
+CUST0630,44,Male,Phoenix,56143,No,Credit Card,Quarterly
+CUST0631,60,Female,Phoenix,114233,Yes,Credit Card,Monthly
+CUST0632,42,Male,Houston,98919,Yes,Cash,Monthly
+CUST0633,61,Female,Houston,62656,Yes,Cash,Monthly
+CUST0634,65,Female,New York,112674,Yes,Debit Card,Weekly
+CUST0635,29,Female,New York,101258,No,Debit Card,Quarterly
+CUST0636,57,Female,Phoenix,32559,Yes,PayPal,Monthly
+CUST0637,54,Male,Phoenix,80134,No,Debit Card,Weekly
+CUST0638,37,Female,Houston,77069,Yes,Debit Card,Monthly
+CUST0639,43,Male,New York,92873,No,Mobile Wallet,Monthly
+CUST0640,53,Female,New York,101371,Yes,Credit Card,Monthly
+CUST0641,18,Female,Phoenix,93527,Yes,Debit Card,Quarterly
+CUST0642,37,Female,Chicago,75093,No,PayPal,Monthly
+CUST0643,36,Male,Phoenix,104141,No,Debit Card,Quarterly
+CUST0644,31,Male,Chicago,95849,No,Mobile Wallet,Quarterly
+CUST0645,45,Female,New York,72153,Yes,Cash,Weekly
+CUST0646,68,Female,Phoenix,80905,Yes,Mobile Wallet,Weekly
+CUST0647,55,Male,Houston,65446,Yes,PayPal,Quarterly
+CUST0648,56,Male,Los Angeles,53568,No,Cash,Quarterly
+CUST0649,59,Female,New York,33416,Yes,Credit Card,Monthly
+CUST0650,38,Female,New York,71795,Yes,PayPal,Monthly
+CUST0651,47,Male,Phoenix,108265,No,PayPal,Quarterly
+CUST0652,46,Female,Los Angeles,58707,No,Debit Card,Quarterly
+CUST0653,46,Male,Los Angeles,33840,No,PayPal,Monthly
+CUST0654,61,Female,Los Angeles,66822,No,Credit Card,Monthly
+CUST0655,31,Female,Phoenix,37679,No,Credit Card,Monthly
+CUST0656,50,Male,Phoenix,91824,Yes,Credit Card,Monthly
+CUST0657,48,Male,Chicago,99393,No,PayPal,Weekly
+CUST0658,68,Female,Chicago,76849,No,Mobile Wallet,Monthly
+CUST0659,68,Male,Chicago,106544,No,PayPal,Quarterly
+CUST0660,65,Female,Houston,60508,Yes,Debit Card,Quarterly
+CUST0661,28,Male,New York,50922,Yes,Credit Card,Monthly
+CUST0662,60,Male,Chicago,43124,No,Debit Card,Monthly
+CUST0663,23,Male,Houston,62487,Yes,Credit Card,Quarterly
+CUST0664,36,Male,Houston,116096,Yes,Debit Card,Quarterly
+CUST0665,50,Female,Phoenix,61608,No,Cash,Weekly
+CUST0666,60,Female,Los Angeles,64934,No,Cash,Quarterly
+CUST0667,58,Male,Los Angeles,99951,No,Credit Card,Quarterly
+CUST0668,57,Female,Chicago,37328,Yes,Debit Card,Quarterly
+CUST0669,39,Female,New York,58758,No,PayPal,Weekly
+CUST0670,23,Female,New York,105457,No,Mobile Wallet,Quarterly
+CUST0671,70,Female,New York,80911,No,PayPal,Monthly
+CUST0672,66,Female,Houston,76504,No,PayPal,Quarterly
+CUST0673,33,Female,Houston,52768,No,Mobile Wallet,Quarterly
+CUST0674,61,Male,Houston,53081,No,Mobile Wallet,Weekly
+CUST0675,37,Female,Phoenix,61005,No,Debit Card,Monthly
+CUST0676,32,Male,Houston,107662,Yes,Mobile Wallet,Quarterly
+CUST0677,69,Female,New York,71681,Yes,Cash,Weekly
+CUST0678,30,Male,New York,77026,Yes,Mobile Wallet,Quarterly
+CUST0679,27,Female,Los Angeles,107537,No,PayPal,Weekly
+CUST0680,19,Female,New York,33697,Yes,Credit Card,Weekly
+CUST0681,20,Female,Houston,76095,Yes,Cash,Weekly
+CUST0682,33,Male,Houston,104403,No,Mobile Wallet,Monthly
+CUST0683,48,Female,Chicago,103873,Yes,Mobile Wallet,Weekly
+CUST0684,57,Male,Phoenix,48625,Yes,Credit Card,Quarterly
+CUST0685,67,Male,New York,103807,Yes,Debit Card,Weekly
+CUST0686,22,Female,Phoenix,54672,Yes,PayPal,Quarterly
+CUST0687,47,Female,New York,94517,No,Credit Card,Monthly
+CUST0688,44,Female,Los Angeles,101057,Yes,Debit Card,Monthly
+CUST0689,58,Male,Los Angeles,70508,Yes,PayPal,Weekly
+CUST0690,54,Male,Phoenix,53010,No,Mobile Wallet,Quarterly
+CUST0691,30,Female,Houston,94282,No,Debit Card,Monthly
+CUST0692,63,Female,Chicago,34975,Yes,Credit Card,Monthly
+CUST0693,62,Female,New York,41830,No,Cash,Weekly
+CUST0694,42,Male,New York,37362,No,Credit Card,Weekly
+CUST0695,49,Male,Chicago,60490,Yes,Credit Card,Weekly
+CUST0696,43,Female,Phoenix,108861,No,Cash,Quarterly
+CUST0697,33,Female,Phoenix,58679,Yes,Debit Card,Weekly
+CUST0698,27,Male,New York,32612,No,Debit Card,Weekly
+CUST0699,59,Female,Los Angeles,99002,Yes,Credit Card,Quarterly
+CUST0700,62,Female,Chicago,92650,No,Credit Card,Quarterly
+CUST0701,18,Male,New York,30089,No,Debit Card,Weekly
+CUST0702,66,Male,Los Angeles,73481,Yes,Cash,Quarterly
+CUST0703,67,Female,Phoenix,110495,Yes,PayPal,Quarterly
+CUST0704,24,Female,Los Angeles,56406,Yes,Cash,Weekly
+CUST0705,67,Male,Houston,47103,Yes,Mobile Wallet,Quarterly
+CUST0706,45,Male,New York,74663,No,Credit Card,Weekly
+CUST0707,32,Male,Chicago,53260,Yes,Debit Card,Weekly
+CUST0708,29,Male,Los Angeles,72413,Yes,Cash,Quarterly
+CUST0709,69,Male,Phoenix,37806,Yes,Mobile Wallet,Weekly
+CUST0710,62,Female,Los Angeles,32872,No,Mobile Wallet,Monthly
+CUST0711,51,Male,Phoenix,49360,No,Credit Card,Quarterly
+CUST0712,47,Male,Houston,106888,Yes,PayPal,Quarterly
+CUST0713,21,Female,Phoenix,48566,Yes,PayPal,Quarterly
+CUST0714,53,Male,Chicago,44538,No,Mobile Wallet,Weekly
+CUST0715,33,Female,Houston,98982,Yes,Cash,Weekly
+CUST0716,25,Male,Los Angeles,77826,Yes,Mobile Wallet,Quarterly
+CUST0717,47,Male,New York,39506,No,Credit Card,Weekly
+CUST0718,26,Male,Phoenix,78967,No,Credit Card,Monthly
+CUST0719,69,Male,Chicago,116787,Yes,PayPal,Monthly
+CUST0720,47,Female,New York,81851,Yes,Mobile Wallet,Monthly
+CUST0721,60,Male,New York,106810,Yes,Debit Card,Quarterly
+CUST0722,51,Female,Houston,43242,No,Debit Card,Weekly
+CUST0723,53,Female,Los Angeles,74113,No,Cash,Quarterly
+CUST0724,56,Male,New York,69552,No,Cash,Monthly
+CUST0725,38,Female,Chicago,72284,No,PayPal,Monthly
+CUST0726,66,Female,Phoenix,47884,Yes,Credit Card,Monthly
+CUST0727,46,Female,Phoenix,50644,Yes,Debit Card,Quarterly
+CUST0728,57,Male,Phoenix,87261,No,Debit Card,Quarterly
+CUST0729,70,Male,Houston,113789,Yes,Debit Card,Monthly
+CUST0730,64,Female,Chicago,93858,No,Debit Card,Monthly
+CUST0731,50,Female,New York,115089,No,PayPal,Weekly
+CUST0732,45,Male,Chicago,71586,Yes,Mobile Wallet,Weekly
+CUST0733,53,Female,Houston,52833,No,Debit Card,Monthly
+CUST0734,46,Female,Houston,103659,No,Credit Card,Weekly
+CUST0735,28,Female,Los Angeles,110440,No,Debit Card,Monthly
+CUST0736,65,Female,Chicago,76769,Yes,Cash,Monthly
+CUST0737,48,Female,Phoenix,59260,No,Credit Card,Monthly
+CUST0738,46,Female,Houston,117232,No,Mobile Wallet,Weekly
+CUST0739,34,Male,Houston,107194,Yes,Debit Card,Monthly
+CUST0740,66,Male,Los Angeles,52983,No,PayPal,Monthly
+CUST0741,33,Male,Phoenix,79595,No,PayPal,Weekly
+CUST0742,58,Female,Houston,70215,No,Debit Card,Monthly
+CUST0743,35,Male,New York,68602,No,Cash,Weekly
+CUST0744,67,Female,Phoenix,46691,No,PayPal,Monthly
+CUST0745,67,Female,Chicago,53292,Yes,Credit Card,Weekly
+CUST0746,51,Male,Los Angeles,30235,Yes,Cash,Quarterly
+CUST0747,49,Male,New York,105082,No,Mobile Wallet,Monthly
+CUST0748,58,Female,New York,81327,Yes,Mobile Wallet,Weekly
+CUST0749,33,Male,Chicago,104381,Yes,PayPal,Quarterly
+CUST0750,35,Male,Los Angeles,34244,Yes,Cash,Monthly
+CUST0751,46,Female,Houston,53865,No,PayPal,Weekly
+CUST0752,22,Female,Los Angeles,108956,Yes,Mobile Wallet,Weekly
+CUST0753,63,Male,Houston,71709,Yes,PayPal,Quarterly
+CUST0754,36,Female,Chicago,110134,Yes,Cash,Monthly
+CUST0755,33,Male,Chicago,58953,Yes,Debit Card,Weekly
+CUST0756,35,Male,New York,113839,No,Mobile Wallet,Quarterly
+CUST0757,39,Female,New York,104127,Yes,Debit Card,Quarterly
+CUST0758,38,Female,New York,43645,Yes,Cash,Weekly
+CUST0759,52,Male,Chicago,95035,No,Mobile Wallet,Monthly
+CUST0760,23,Female,Houston,48434,No,PayPal,Quarterly
+CUST0761,26,Male,Chicago,73406,Yes,PayPal,Monthly
+CUST0762,27,Female,Chicago,40198,No,PayPal,Weekly
+CUST0763,32,Female,New York,61194,No,Mobile Wallet,Weekly
+CUST0764,42,Male,Los Angeles,75457,No,Mobile Wallet,Weekly
+CUST0765,62,Female,New York,71879,Yes,PayPal,Weekly
+CUST0766,27,Male,Los Angeles,52005,Yes,PayPal,Quarterly
+CUST0767,63,Female,Houston,113386,No,Debit Card,Quarterly
+CUST0768,31,Male,Houston,41629,Yes,Mobile Wallet,Monthly
+CUST0769,22,Male,Phoenix,117821,Yes,PayPal,Monthly
+CUST0770,44,Female,Phoenix,113768,Yes,Cash,Weekly
+CUST0771,44,Male,Phoenix,74007,Yes,PayPal,Monthly
+CUST0772,39,Female,Houston,88540,Yes,Mobile Wallet,Weekly
+CUST0773,52,Male,New York,31493,Yes,PayPal,Quarterly
+CUST0774,47,Male,New York,64761,Yes,Debit Card,Quarterly
+CUST0775,44,Male,New York,57483,Yes,Credit Card,Weekly
+CUST0776,21,Female,Chicago,62707,Yes,Mobile Wallet,Weekly
+CUST0777,31,Female,Phoenix,38885,Yes,Mobile Wallet,Quarterly
+CUST0778,44,Male,New York,75938,No,Credit Card,Monthly
+CUST0779,42,Female,Phoenix,63640,Yes,PayPal,Monthly
+CUST0780,67,Female,Phoenix,44160,No,Debit Card,Weekly
+CUST0781,55,Male,Chicago,30167,Yes,PayPal,Quarterly
+CUST0782,62,Male,Houston,36310,No,Credit Card,Monthly
+CUST0783,19,Male,New York,80585,Yes,Debit Card,Monthly
+CUST0784,66,Female,Chicago,87438,Yes,Cash,Quarterly
+CUST0785,54,Male,Houston,85004,No,Cash,Weekly
+CUST0786,42,Male,Houston,51802,No,Debit Card,Quarterly
+CUST0787,48,Female,New York,84266,No,Cash,Quarterly
+CUST0788,18,Male,Phoenix,94629,Yes,Debit Card,Monthly
+CUST0789,40,Female,Los Angeles,79638,Yes,PayPal,Monthly
+CUST0790,37,Male,Phoenix,76036,No,PayPal,Monthly
+CUST0791,66,Female,Phoenix,101568,Yes,Credit Card,Monthly
+CUST0792,42,Male,Los Angeles,79197,Yes,PayPal,Quarterly
+CUST0793,44,Male,Houston,43294,No,PayPal,Weekly
+CUST0794,52,Male,Los Angeles,92847,Yes,Credit Card,Quarterly
+CUST0795,65,Female,Los Angeles,105766,No,Mobile Wallet,Weekly
+CUST0796,65,Female,Chicago,115323,No,Mobile Wallet,Weekly
+CUST0797,52,Male,Chicago,59567,Yes,Debit Card,Monthly
+CUST0798,69,Male,Chicago,51319,Yes,Mobile Wallet,Quarterly
+CUST0799,56,Female,Houston,89151,No,Mobile Wallet,Monthly
+CUST0800,32,Male,Los Angeles,39661,No,Mobile Wallet,Weekly
+CUST0801,49,Male,New York,34379,Yes,PayPal,Quarterly
+CUST0802,32,Male,Los Angeles,68654,Yes,Mobile Wallet,Quarterly
+CUST0803,35,Female,Houston,32631,Yes,PayPal,Monthly
+CUST0804,45,Female,Chicago,71774,Yes,PayPal,Monthly
+CUST0805,49,Male,Houston,64226,No,Credit Card,Quarterly
+CUST0806,19,Female,Chicago,43726,Yes,Debit Card,Monthly
+CUST0807,42,Male,Houston,39725,Yes,Credit Card,Monthly
+CUST0808,39,Female,New York,74801,Yes,Cash,Weekly
+CUST0809,60,Male,Chicago,52296,No,PayPal,Quarterly
+CUST0810,61,Male,Chicago,79212,Yes,Mobile Wallet,Quarterly
+CUST0811,69,Female,Los Angeles,51090,Yes,Mobile Wallet,Weekly
+CUST0812,43,Male,Houston,39830,Yes,Cash,Monthly
+CUST0813,64,Male,Phoenix,101702,No,Debit Card,Quarterly
+CUST0814,28,Female,Phoenix,42203,Yes,PayPal,Monthly
+CUST0815,47,Female,Los Angeles,74295,Yes,Cash,Weekly
+CUST0816,26,Male,Houston,107860,No,Cash,Monthly
+CUST0817,57,Female,New York,110431,No,Cash,Monthly
+CUST0818,52,Female,Los Angeles,93273,No,PayPal,Quarterly
+CUST0819,19,Female,Chicago,34062,Yes,PayPal,Weekly
+CUST0820,43,Male,New York,86534,No,PayPal,Weekly
+CUST0821,55,Female,Houston,115673,Yes,PayPal,Quarterly
+CUST0822,54,Male,Chicago,51626,No,Credit Card,Weekly
+CUST0823,60,Female,Phoenix,109602,No,Cash,Monthly
+CUST0824,19,Male,Houston,86911,No,Credit Card,Quarterly
+CUST0825,23,Male,Chicago,50591,Yes,Debit Card,Weekly
+CUST0826,59,Female,Houston,37019,No,Cash,Monthly
+CUST0827,45,Male,Chicago,43272,Yes,PayPal,Quarterly
+CUST0828,26,Male,Houston,73397,No,PayPal,Monthly
+CUST0829,47,Female,Phoenix,56941,No,PayPal,Weekly
+CUST0830,29,Female,Los Angeles,54901,Yes,Credit Card,Quarterly
+CUST0831,21,Male,Chicago,83645,Yes,PayPal,Quarterly
+CUST0832,34,Female,Chicago,102628,No,Cash,Monthly
+CUST0833,42,Female,Phoenix,100795,No,Mobile Wallet,Monthly
+CUST0834,38,Male,Los Angeles,64768,No,Cash,Weekly
+CUST0835,31,Male,Houston,116585,Yes,Debit Card,Quarterly
+CUST0836,47,Male,Chicago,66899,Yes,Cash,Monthly
+CUST0837,38,Female,Los Angeles,68980,Yes,PayPal,Quarterly
+CUST0838,39,Male,Houston,61135,Yes,Cash,Weekly
+CUST0839,66,Female,Chicago,42571,Yes,Cash,Weekly
+CUST0840,42,Male,Chicago,36505,No,Credit Card,Weekly
+CUST0841,35,Male,Houston,81498,Yes,Mobile Wallet,Weekly
+CUST0842,66,Male,Phoenix,104943,No,Cash,Weekly
+CUST0843,44,Male,Los Angeles,102045,No,Debit Card,Quarterly
+CUST0844,34,Female,Chicago,94349,No,Cash,Quarterly
+CUST0845,23,Female,Houston,50131,Yes,Mobile Wallet,Weekly
+CUST0846,48,Female,Chicago,37144,Yes,Mobile Wallet,Monthly
+CUST0847,19,Female,Houston,77294,No,Mobile Wallet,Monthly
+CUST0848,65,Female,Chicago,30500,No,Mobile Wallet,Weekly
+CUST0849,52,Male,New York,86047,No,Mobile Wallet,Quarterly
+CUST0850,21,Male,Phoenix,41485,No,Credit Card,Quarterly
+CUST0851,40,Female,Los Angeles,68607,No,Mobile Wallet,Monthly
+CUST0852,32,Female,Phoenix,116772,No,Credit Card,Monthly
+CUST0853,59,Male,Phoenix,111931,No,Cash,Quarterly
+CUST0854,22,Female,Los Angeles,108671,Yes,Cash,Monthly
+CUST0855,67,Female,Phoenix,92957,No,Credit Card,Weekly
+CUST0856,59,Male,New York,56171,No,PayPal,Weekly
+CUST0857,20,Female,Houston,42712,Yes,Mobile Wallet,Monthly
+CUST0858,66,Female,Los Angeles,33373,No,Mobile Wallet,Weekly
+CUST0859,19,Female,Houston,57125,No,Cash,Monthly
+CUST0860,33,Female,Chicago,52391,No,Credit Card,Quarterly
+CUST0861,30,Female,New York,113648,No,Mobile Wallet,Weekly
+CUST0862,19,Female,Houston,68248,No,Cash,Monthly
+CUST0863,57,Male,Houston,40739,No,Mobile Wallet,Weekly
+CUST0864,27,Female,Los Angeles,92071,Yes,Credit Card,Weekly
+CUST0865,33,Female,Chicago,45139,Yes,PayPal,Quarterly
+CUST0866,26,Female,Los Angeles,70416,Yes,Debit Card,Quarterly
+CUST0867,48,Female,Chicago,82096,No,Cash,Quarterly
+CUST0868,60,Male,Los Angeles,91727,Yes,Cash,Monthly
+CUST0869,25,Female,Houston,94106,Yes,Debit Card,Quarterly
+CUST0870,54,Male,Houston,116643,Yes,Debit Card,Quarterly
+CUST0871,31,Female,New York,64734,No,Cash,Weekly
+CUST0872,47,Male,Houston,41945,No,PayPal,Quarterly
+CUST0873,62,Female,Phoenix,114130,Yes,Cash,Quarterly
+CUST0874,34,Female,Houston,101319,Yes,Debit Card,Weekly
+CUST0875,67,Male,Phoenix,80793,No,Mobile Wallet,Weekly
+CUST0876,41,Male,Houston,54232,Yes,Credit Card,Weekly
+CUST0877,28,Female,Phoenix,78630,Yes,Mobile Wallet,Quarterly
+CUST0878,56,Female,Phoenix,79996,Yes,PayPal,Weekly
+CUST0879,56,Female,Houston,78418,No,Cash,Monthly
+CUST0880,65,Female,Phoenix,54455,No,Cash,Quarterly
+CUST0881,63,Female,New York,88428,Yes,Credit Card,Weekly
+CUST0882,25,Male,Chicago,35848,Yes,Mobile Wallet,Monthly
+CUST0883,67,Female,Phoenix,64510,No,Credit Card,Quarterly
+CUST0884,70,Female,Phoenix,87637,Yes,PayPal,Weekly
+CUST0885,28,Female,New York,90956,No,Mobile Wallet,Weekly
+CUST0886,37,Male,New York,64524,Yes,Mobile Wallet,Quarterly
+CUST0887,24,Female,Los Angeles,59654,Yes,PayPal,Quarterly
+CUST0888,55,Female,Chicago,65200,No,Cash,Weekly
+CUST0889,19,Female,Los Angeles,103956,No,Cash,Weekly
+CUST0890,37,Male,Phoenix,38079,No,Debit Card,Weekly
+CUST0891,54,Male,New York,49808,Yes,Cash,Quarterly
+CUST0892,61,Female,Phoenix,117486,Yes,Credit Card,Weekly
+CUST0893,42,Female,Houston,42675,No,PayPal,Monthly
+CUST0894,43,Male,Chicago,41233,No,Cash,Weekly
+CUST0895,63,Male,Houston,117574,Yes,Mobile Wallet,Monthly
+CUST0896,30,Male,New York,75061,Yes,PayPal,Quarterly
+CUST0897,22,Female,New York,100968,No,Cash,Weekly
+CUST0898,55,Male,New York,84262,Yes,Credit Card,Quarterly
+CUST0899,62,Male,Chicago,107296,Yes,Debit Card,Weekly
+CUST0900,58,Male,Los Angeles,59820,Yes,Debit Card,Weekly
+CUST0901,33,Male,Phoenix,102561,Yes,PayPal,Weekly
+CUST0902,24,Female,Phoenix,37993,Yes,Credit Card,Monthly
+CUST0903,62,Female,Phoenix,80738,No,Credit Card,Quarterly
+CUST0904,67,Female,Phoenix,98495,Yes,Credit Card,Quarterly
+CUST0905,37,Male,Phoenix,84870,Yes,Cash,Weekly
+CUST0906,61,Male,Los Angeles,100190,Yes,Debit Card,Weekly
+CUST0907,56,Female,Houston,92236,Yes,Credit Card,Weekly
+CUST0908,69,Female,Chicago,105066,No,Mobile Wallet,Monthly
+CUST0909,25,Female,Houston,60886,No,Cash,Monthly
+CUST0910,68,Female,Houston,92424,No,Mobile Wallet,Quarterly
+CUST0911,54,Male,Phoenix,69171,No,Mobile Wallet,Quarterly
+CUST0912,68,Male,Phoenix,40348,No,PayPal,Monthly
+CUST0913,20,Female,Los Angeles,81747,Yes,Cash,Monthly
+CUST0914,40,Female,Chicago,34551,Yes,Mobile Wallet,Weekly
+CUST0915,52,Female,New York,95811,Yes,Cash,Quarterly
+CUST0916,45,Female,Houston,104870,Yes,Credit Card,Quarterly
+CUST0917,60,Male,New York,97740,No,PayPal,Quarterly
+CUST0918,41,Male,Chicago,104905,No,Debit Card,Weekly
+CUST0919,22,Male,Houston,118805,No,Mobile Wallet,Monthly
+CUST0920,50,Male,New York,111300,No,PayPal,Weekly
+CUST0921,59,Female,New York,49326,Yes,PayPal,Weekly
+CUST0922,39,Female,Los Angeles,45765,Yes,PayPal,Quarterly
+CUST0923,18,Male,Chicago,88856,No,PayPal,Weekly
+CUST0924,44,Female,Chicago,52659,No,Credit Card,Monthly
+CUST0925,70,Female,Chicago,51910,Yes,Cash,Weekly
+CUST0926,49,Female,Houston,57772,No,Debit Card,Weekly
+CUST0927,24,Male,Los Angeles,55260,Yes,Debit Card,Monthly
+CUST0928,45,Female,Phoenix,46539,No,Cash,Weekly
+CUST0929,41,Female,Houston,35593,Yes,Debit Card,Monthly
+CUST0930,58,Male,Chicago,85492,Yes,PayPal,Weekly
+CUST0931,47,Male,Houston,40271,No,Credit Card,Quarterly
+CUST0932,63,Male,New York,119538,No,PayPal,Monthly
+CUST0933,27,Male,Houston,87067,Yes,PayPal,Quarterly
+CUST0934,45,Female,Houston,56465,No,Credit Card,Weekly
+CUST0935,29,Male,Chicago,112211,No,Mobile Wallet,Monthly
+CUST0936,64,Female,New York,49382,No,Debit Card,Weekly
+CUST0937,51,Male,Chicago,107994,No,Credit Card,Quarterly
+CUST0938,59,Female,New York,63801,No,Cash,Weekly
+CUST0939,35,Female,New York,71910,Yes,Cash,Weekly
+CUST0940,57,Male,New York,38783,No,Cash,Weekly
+CUST0941,69,Female,Chicago,41406,No,Mobile Wallet,Quarterly
+CUST0942,52,Female,New York,80868,No,Credit Card,Quarterly
+CUST0943,67,Male,Los Angeles,102923,Yes,Mobile Wallet,Monthly
+CUST0944,48,Male,Los Angeles,82082,No,Cash,Weekly
+CUST0945,47,Female,Phoenix,102358,Yes,PayPal,Weekly
+CUST0946,45,Male,Los Angeles,72746,No,PayPal,Monthly
+CUST0947,70,Male,Phoenix,66202,Yes,Mobile Wallet,Weekly
+CUST0948,64,Male,Los Angeles,98116,No,Cash,Weekly
+CUST0949,55,Male,Chicago,90051,Yes,Cash,Weekly
+CUST0950,35,Male,Phoenix,31620,Yes,Cash,Weekly
+CUST0951,38,Female,Houston,111665,No,Cash,Weekly
+CUST0952,33,Male,Houston,107014,No,Credit Card,Quarterly
+CUST0953,23,Female,Los Angeles,98493,No,Mobile Wallet,Quarterly
+CUST0954,35,Female,Houston,84997,Yes,Mobile Wallet,Quarterly
+CUST0955,46,Female,Los Angeles,44748,No,Credit Card,Monthly
+CUST0956,33,Male,Los Angeles,84321,Yes,PayPal,Monthly
+CUST0957,66,Male,Houston,49613,No,Mobile Wallet,Quarterly
+CUST0958,47,Male,Houston,49424,Yes,Debit Card,Monthly
+CUST0959,54,Female,New York,104264,No,Mobile Wallet,Quarterly
+CUST0960,57,Female,Phoenix,107061,No,Mobile Wallet,Weekly
+CUST0961,60,Female,Los Angeles,106372,Yes,PayPal,Weekly
+CUST0962,42,Female,Houston,43133,Yes,Credit Card,Weekly
+CUST0963,39,Female,Phoenix,43845,No,PayPal,Quarterly
+CUST0964,19,Male,Houston,103752,No,PayPal,Monthly
+CUST0965,49,Male,Houston,43237,No,Credit Card,Quarterly
+CUST0966,38,Female,New York,67498,Yes,Debit Card,Monthly
+CUST0967,29,Male,Los Angeles,100206,No,Credit Card,Monthly
+CUST0968,49,Female,Los Angeles,75071,Yes,PayPal,Weekly
+CUST0969,31,Female,Chicago,83856,Yes,Credit Card,Weekly
+CUST0970,40,Female,New York,64620,No,Mobile Wallet,Quarterly
+CUST0971,69,Male,Phoenix,80206,Yes,Mobile Wallet,Quarterly
+CUST0972,34,Male,New York,115824,Yes,Debit Card,Weekly
+CUST0973,39,Male,Phoenix,93646,Yes,Debit Card,Quarterly
+CUST0974,35,Female,Los Angeles,104976,No,Credit Card,Weekly
+CUST0975,56,Male,Chicago,109817,Yes,Credit Card,Quarterly
+CUST0976,62,Male,Chicago,92003,Yes,Credit Card,Monthly
+CUST0977,35,Male,Los Angeles,34910,Yes,Cash,Quarterly
+CUST0978,53,Female,Houston,52570,Yes,PayPal,Weekly
+CUST0979,18,Male,New York,66099,No,PayPal,Quarterly
+CUST0980,51,Male,Chicago,82818,Yes,Debit Card,Monthly
+CUST0981,30,Female,Houston,48855,Yes,Mobile Wallet,Monthly
+CUST0982,23,Male,Phoenix,111034,Yes,Mobile Wallet,Monthly
+CUST0983,33,Female,Chicago,109777,Yes,Mobile Wallet,Weekly
+CUST0984,64,Female,Phoenix,119235,No,Mobile Wallet,Quarterly
+CUST0985,44,Male,Houston,82654,Yes,PayPal,Weekly
+CUST0986,49,Female,Phoenix,35083,Yes,Cash,Weekly
+CUST0987,53,Male,Houston,81877,No,Mobile Wallet,Weekly
+CUST0988,66,Female,Phoenix,73449,No,Debit Card,Quarterly
+CUST0989,33,Male,New York,61139,No,Credit Card,Weekly
+CUST0990,62,Female,Chicago,36460,No,Credit Card,Quarterly
+CUST0991,48,Male,Chicago,92287,No,Debit Card,Monthly
+CUST0992,59,Male,Houston,65203,No,Debit Card,Quarterly
+CUST0993,63,Male,Phoenix,78816,Yes,Debit Card,Quarterly
+CUST0994,49,Male,Los Angeles,32651,No,Cash,Weekly
+CUST0995,46,Female,Chicago,74284,No,Credit Card,Monthly
+CUST0996,68,Male,Phoenix,69722,Yes,Cash,Quarterly
+CUST0997,19,Male,Phoenix,70756,Yes,Mobile Wallet,Quarterly
+CUST0998,23,Male,New York,66745,Yes,Credit Card,Weekly
+CUST0999,36,Male,Los Angeles,94437,No,Debit Card,Monthly
+CUST1000,32,Female,Chicago,119764,No,Cash,Weekly

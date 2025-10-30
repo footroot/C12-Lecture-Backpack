@@ -1,0 +1,12 @@
+/* Add space above the header */
+header {
+    margin-top: 20px;
+}
+
+/* Display the navigation items side by side */
+.nav-links {
+    display: flex;
+    gap: 15px; /* Add space between items */
+    list-style: none;
+    padding: 0;
+}

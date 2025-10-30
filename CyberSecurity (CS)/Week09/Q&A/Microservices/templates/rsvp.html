@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RSVP</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="navbar">
+        <a href="/">Home</a>
+        <a href="/create">Create Event</a>
+        <a href="/events">View Events</a>
+    </div>
+    
+    <div class="container">
+        <h1>RSVP for "{{ event['name'] }}"</h1>
+        <p><strong>Date:</strong> {{ event['date'] }}</p>
+        <p>{{ event['description'] }}</p>
+
+        <form method="post">
+            <label>Your Name:</label>
+            <input type="text" name="user" required autocomplete="off">
+            
+            <label>Response:</label>
+            <select name="response">
+                <option value="Attending">Attending</option>
+                <option value="Maybe">Maybe</option>
+                <option value="Not Attending">Not Attending</option>
+            </select>
+            
+            <button type="submit">Submit RSVP</button>
+        </form>
+
+        <h2>Guest List</h2>
+        <ul class="rsvp-list">
+            {% if rsvps and rsvps[event_id] %}
+                {% for rsvp in rsvps[event_id] %}
+                    <li>{{ rsvp['user'] }} - {{ rsvp['response'] }}</li>
+                {% endfor %}
+            {% else %}
+                <li>No RSVPs yet</li>
+            {% endif %}
+        </ul>
+    </div>
+</body>
+</html>
